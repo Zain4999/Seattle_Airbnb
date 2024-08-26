@@ -20,3 +20,7 @@ I have attached a screenshot of the dashboard below:
 
 ![Dashboard](https://github.com/Zain4999/Seattle_Airbnb/blob/main/Seattle%20Airbnb%20Dashboard.png)
 
+# The Findings
+From the visualaitions, I found that:
+
+Zipcode 98146 is the postcode with the highest average listing price
