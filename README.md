@@ -24,3 +24,12 @@ I have attached a screenshot of the dashboard below:
 From the visualaitions, I found that:
 
 Zipcode 98146 is the postcode with the highest average listing price
+The best time to list a property is March to December as this is when the total listing revenue is high.
+It's more lucrative to list a property with more bedrooms.
+
+### Why this can be misleading
+
+This doesn't take into account the following:
+
+The taxes and varying cost in each zipcode
+The cost to maintain larger properties
