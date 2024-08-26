@@ -8,3 +8,7 @@ The question: If I wanted to invest in properties in Seattle to list on Airbnb, 
 
 # Tools I used
 The main tool I used during this analysis was Tableau. I used Tableau to create appealing visualisations which communicate the Seattle Airbnb market effectively. I also used Github to share my project. 
+
+# The Dashboard 
+I have attached a screenshot of the dashboard below:
+
