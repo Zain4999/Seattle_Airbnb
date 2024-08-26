@@ -12,3 +12,5 @@ The main tool I used during this analysis was Tableau. I used Tableau to create 
 # The Dashboard 
 I have attached a screenshot of the dashboard below:
 
+![Dashboard](https://github.com/Zain4999/Seattle_Airbnb/blob/main/Seattle%20Airbnb%20Dashboard.png)
+
