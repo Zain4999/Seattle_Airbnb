@@ -1,6 +1,8 @@
 # Introduction
 A look into what kind of properties a potential investor would invest in if they wanted to list them on Airbnb in Seattle.
 
+All data comes from Inside Airbnb, but more specifically from this [Kaggle dataset](https://www.kaggle.com/datasets/airbnb/seattle)
+
 # Background
 After renting out rooms in my own house I was interested to see what kinds of Airbnb listings would be the most lucrative in Seattle. 
 
