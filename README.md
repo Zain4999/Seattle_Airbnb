@@ -20,11 +20,14 @@ I have attached a screenshot of the dashboard below:
 
 ![Dashboard](https://github.com/Zain4999/Seattle_Airbnb/blob/main/Seattle%20Airbnb%20Dashboard.png)
 
-# The Findings
+# Conclusion
+
+### Insights
+
 From the visualaitions, I found that:
 
-- Zipcode 98146 is the postcode with the highest average listing price
-- The best time to list a property is March to December as this is when the total listing revenue is high.
+- 98146 is the zipcode with the highest average listing price
+- The best time to list a property is March to December as this is when the total listing revenue is high in Seattle.
 - It's more lucrative to list a property with more bedrooms.
 
 ### Why this can be misleading
@@ -32,4 +35,10 @@ From the visualaitions, I found that:
 This doesn't take into account the following:
 
 - The taxes and varying cost in each zipcode
-- The cost to maintain larger properties
+- The cost to maintain larger properties, which can include mortgage and utility costs
+
+More in depth analysis is needed to determine what kind of properties in Seattle are the most profitable. 
+
+# Closing thoughts
+
+This project really helped me to become more confident in using Tableau to explore and visualise data in a way that is presentable. 
